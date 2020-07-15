@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "783207114500",
+    "firebase_url": "https://blmhackathon.firebaseio.com",
+    "project_id": "blmhackathon",
+    "storage_bucket": "blmhackathon.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:783207114500:android:bff2052209d6ac70231251",
+        "android_client_info": {
+          "package_name": "com.example.blmhackathon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "783207114500-vtktorqkgdi424ofinkrbsotv8h3228h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzPNbeF3XhD2CJcK-3ClUkjE-IByyYRvM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "783207114500-vtktorqkgdi424ofinkrbsotv8h3228h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
